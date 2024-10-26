@@ -12,7 +12,7 @@ The objective of this case study is to provide an in-depth analysis of India's C
 
 **Data Preprocessing :** There are null values in covid_19 dataset.In Statewise testing details there are more than 5000 missing values in two columns which are positive and negative.In the Statewise testing dataset there is lot of information missing. So merging two datasets can lead to misinterpretation. In vaccine data there are only 7000 rows which is way lesser than covid_19 dataset which has 17000 rows.Merging this datasets will leads to wrong insight. So analysis of individual datasets is preferred.
 
-**Actionable Insights : **
+## Actionable Insights :
 There was a significant surge in daily COVID-19 cases during the second wave, peaking in May 2021, which saw a much higher number of cases compared to the first wave in 2020.
 The recovery rate steadily improved over time, reaching above 95% by late 2021, indicating better healthcare management and availability of treatment.
 Maharashtra, Kerala, and Karnataka were consistently among the states with the highest number of cases and fatalities. Maharashtra was especially affected during both waves, often leading the country in daily case counts.
